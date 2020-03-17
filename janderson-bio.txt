@@ -8,3 +8,5 @@ Experienced software instructor with deep knowledge of the following software pr
 	* Microsoft C# .Net
 	* Awesome CSS Design Skills!
 	* Git & GitHub. 
+	* Angular
+	* TypeScript 
